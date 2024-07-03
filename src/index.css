@@ -1,17 +1,10 @@
-.card {
-  border: 1px solid hsl(0, 0%, 80%);
-  border-radius: 10px;
-  box-shadow: 5px 5px 5px rgb(255, 255, 255);
-  padding: 20px;
-  margin: 10px;
-  text-align: center;
-  max-width: 250px;
-  display: inline-block;
+.student {
+    font-family: Arial, sans-serif;
+    font-size: 2em;
+    padding: 10px;
+    border: 1px solid hsla(0, 0%, 50%, 0.8);
 }
 
-.card .card-image {
-    max-width: 60px;
-    height: auto;
-    border-radius: 50px;
-    margin-bottom: 10px;
+.student p {
+    margin: 0;
 }

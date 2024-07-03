@@ -1,2 +1,2 @@
 finish card component
-finisg css styles(external, inline, modules)
+finish css styles(external, inline, modules)
